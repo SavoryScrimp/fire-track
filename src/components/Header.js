@@ -4,7 +4,7 @@ import locationIcon from '@iconify/icons-mdi/fire-alert'
 const Header = () => {
   return (
     <header className="header">
-      <h1><Icon icon={locationIcon} /> Track Fire (Powered by NASA)</h1>
+      <h1><Icon icon={locationIcon} /> Fire Track (Powered by NASA)</h1>
       
     </header>
   )
