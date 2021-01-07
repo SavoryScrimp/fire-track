@@ -5,3 +5,6 @@ This is a small React app I created with the help of a tutorial. It utilizes Rea
 You can click any of the fire icons and recieve it's EONET ID number and the title of the fire provided by the EONET system.
 
 I also implemented the early loading screen and dial gif to deal with any possible load times created by the async/await interaction while REACT grabs the data from NASA.
+
+
+Live version: https://savoryscrimp.github.io/fire-track
